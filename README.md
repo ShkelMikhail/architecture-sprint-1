@@ -15,4 +15,4 @@
 - карточка мест (Микрофронтенд карточек мест, который отвечает за операции CRUD с карточками мест)
 
 Задание номер 2: 
-https://drive.google.com/file/d/1FhESspw1U6crInuJBtMXfmhq_PJvlRtX/view?usp=sharing
+https://drive.google.com/file/d/1ODqKJDnRgcp1l7IFX_osPBiinuIVe-Uz/view?usp=sharing
